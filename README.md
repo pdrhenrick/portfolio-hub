@@ -52,7 +52,7 @@ Para executar este projeto localmente em sua máquina:
 
 ```bash
 # Clone o repositório
-git clone [https://github.com/pdrhenrick/portfolio-hub.git](https://github.com/pdrhenrick/portfolio-hub.git)
+git clone https://github.com/pdrhenrick/portfolio-hub.git
 
 # Entre na pasta
 cd portfolio-hub
